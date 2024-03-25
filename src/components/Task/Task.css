@@ -1,0 +1,13 @@
+.task{
+    background-color: aliceblue;
+    border-radius: 5px;
+    box-shadow: rgb(0,0,0, .16) 0px 1px 4px;
+    width: 100%;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 20px;
+    touch-action: none;
+    cursor: pointer;
+}
